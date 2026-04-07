@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "de.habelt-jena.KatexInputHelper",
 	"app_min_version": "2.13",
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"name": "Katex Input Helper",
 	"description": "Provides interactive input support for math formulae via Katex",
 	"author": "Jürgen Habelt",
@@ -41,7 +41,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:50b53d47d1e1444d56656892e0d3028308726fd1e2cd0680bed7c3b16698e864",
-	"_publish_commit": "master:4e535986fa134cfb7bd8ac70fd382a9678754cde",
+	"_publish_hash": "sha256:a46ab5e586c1390eaad48a60a98a2a7a3d4373ddc129a6ccea8ff37599513858",
+	"_publish_commit": "master:ecd3538a1f53cf98793dd35d3e2bbfb380746402",
 	"_npm_package_name": "joplin-plugin-katex-input-helper"
 }
