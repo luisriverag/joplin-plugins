@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.joplin.plugin.toggle-highlights-only-display",
 	"app_min_version": "3.5",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"name": "Toggle highlights-only display",
 	"description": "This plugin can be used to toggle between highlights-only display or complete text of a note",
 	"author": "Alex Pot",
@@ -37,7 +37,7 @@
 	],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:cb5a2c3e5c0e1f14409f89cf2fd51a0c88c3ea3f5751800dfd3844713c38e1e6",
-	"_publish_commit": "master:a498123593211a1e4ad8ffe52fc1fc4b416fa601",
+	"_publish_hash": "sha256:4b506edc6b05ae05469be4968b99dcec17768fa8d2a24c7f128d2479a67a9724",
+	"_publish_commit": "master:e8b28931583bc6fb0f2bdd1c32fe2cf6f7cf2a92",
 	"_npm_package_name": "joplin-plugin-toggle-highlights-only-display"
 }
