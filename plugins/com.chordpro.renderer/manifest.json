@@ -1,0 +1,25 @@
+{
+	"manifest_version": 1,
+	"id": "com.chordpro.renderer",
+	"app_min_version": "3.5",
+	"version": "1.0.0",
+	"name": "ChordPro Renderer",
+	"description": "Renders ChordPro markup in the joplin markdown renderer",
+	"author": "Joel Ong",
+	"homepage_url": "https://github.com/ongkahyuan/JoplinChordPro",
+	"repository_url": "https://github.com/ongkahyuan/JoplinChordPro",
+	"keywords": [
+		"ChordPro"
+	],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"_publish_hash": "sha256:512d97bbef5b3a9128406f9967a1ae50467d9f3d4d504b5819761a058b8dde93",
+	"_publish_commit": "main:81fdea4a464c910aac0321904831b2f26e14c45a",
+	"_npm_package_name": "joplin-plugin-chordpro-renderer"
+}
