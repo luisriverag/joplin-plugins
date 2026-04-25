@@ -2,7 +2,11 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.joplin-wrapped-line-indent",
 	"app_min_version": "3.3",
-	"version": "1.0.0",
+	"version": "1.0.1",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
 	"name": "Wrapped Line Indentation",
 	"description": "Indent wrapped lines in the markdown editor",
 	"author": "bwat47",
@@ -36,7 +40,7 @@
 		"src": "images/wrapped-line-indent-promo.png",
 		"label": "Wrapped line indent Promo Tile"
 	},
-	"_publish_hash": "sha256:4bc3a8a69493ebcefed11fa355e292307badfec988622a425716e52714e4c09b",
-	"_publish_commit": "main:5e9b777544ef2ced1d2c284c4d9c1de4605debc1",
+	"_publish_hash": "sha256:cca960528a481b9b0ce8f8007d04b9488382adc7b7ed0795519709bc3c97dbb0",
+	"_publish_commit": "main:f2fcdefee6d1097702a85866021ad605bcca8013",
 	"_npm_package_name": "joplin-plugin-wrapped-line-indent"
 }
