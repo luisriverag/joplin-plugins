@@ -13,7 +13,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:5b39cad32c85d384f2837f83e0c20ed9073e9423940d28d5b96d23c8a2b67a59",
-	"_publish_commit": "main:48d914dc4bb977c308e17f64fedb8eb7b3be549f",
+	"_publish_hash": "sha256:2395d09ea07339b5f619cb1a44f48112e1c01ecb23773c0f75d525ec78fa88bd",
+	"_publish_commit": "main:41ac4f0e4ffc53be00fd56e57e54c28e85cb0566",
 	"_npm_package_name": "joplin-plugin-calendar-notes"
 }
