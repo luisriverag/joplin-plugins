@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.github.eugenelesnov.LinkIt",
 	"app_min_version": "3.5",
-	"version": "0.0.2",
+	"version": "1.0.0",
 	"name": "Link It",
 	"description": "Inline note search on '[[': with autocomplete",
 	"author": "Eugene Lesnov",
@@ -21,7 +21,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:e9b89625755807c1005e19a660f31334b63d84c54cedcf0167282cdc711e7f79",
-	"_publish_commit": "main:1c3d839d038789ae57f1afa091ef8b48a5f473b6",
+	"_publish_hash": "sha256:8eedbef313cfc0be3e1a0ce7e9240e6003829f8733f835524a79b559abd48aa2",
+	"_publish_commit": "main:ff7938ff179e83dab97398347312684431eed134",
 	"_npm_package_name": "joplin-plugin-link-it"
 }
