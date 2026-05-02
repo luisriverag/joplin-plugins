@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.github.txnam.joplinmemo",
 	"app_min_version": "3.5",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"name": "JoplinMemo",
 	"description": "View ordinary Joplin notes as compact, colorful memo boards.",
 	"author": "https://github.com/txnam/JoplinMemo",
@@ -30,7 +30,7 @@
 		"48": "assets/joplin-memo-48.png",
 		"128": "assets/joplin-memo-128.png"
 	},
-	"_publish_hash": "sha256:db5be4f23e76e72ee1de1e6e0a1682b791456aee33e3207ee579d7bc82ba5d3e",
-	"_publish_commit": "main:f27e571a0cac091757a00d594e4306e9cbdc2ac7",
+	"_publish_hash": "sha256:01aa58c43ed637cc761dfb492e21243aee57b2ef75c5dcdd5e47856de1f23463",
+	"_publish_commit": "main:6e28c2a000ef3daf61f4524556e6b94a591f68f2",
 	"_npm_package_name": "joplin-plugin-joplinmemo"
 }
