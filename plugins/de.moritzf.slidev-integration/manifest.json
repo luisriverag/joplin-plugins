@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "de.moritzf.slidev-integration",
 	"app_min_version": "3.5.11",
-	"version": "0.1.0",
+	"version": "0.1.2",
 	"name": "Slidev Integration",
 	"description": "Turn Joplin notes into Slidev presentations!",
 	"author": "moritz",
@@ -17,7 +17,7 @@
 	"categories": [
 		"integrations"
 	],
-	"_publish_hash": "sha256:2ed83afbf0eb76d86a2e08387f21c683581d712512b5b55ab2f7259a9121251f",
-	"_publish_commit": "main:1943415a0072229929ba8392ecafb3103271dac6",
+	"_publish_hash": "sha256:dcd3756ec3dfde9937058024dc6c99823c6321bda62fde0202df3581a2ce9dcb",
+	"_publish_commit": "main:d1b53ee66962059578f68390aa7cdf936f0cb7f2",
 	"_npm_package_name": "joplin-plugin-slidev"
 }
