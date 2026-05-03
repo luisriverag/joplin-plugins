@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.joplin-wrapped-line-indent",
 	"app_min_version": "3.5",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -40,7 +40,7 @@
 		"src": "images/wrapped-line-indent-promo.png",
 		"label": "Wrapped line indent Promo Tile"
 	},
-	"_publish_hash": "sha256:bd9e7fe10657b878b2ffdd361ef57cf39cbf29f72131c16b570cf4c8cf82c795",
-	"_publish_commit": "main:07b8a014bab2c65d835fea1ede3c520704b2a9c0",
+	"_publish_hash": "sha256:91bb2bba2b5648d08acc375032184c8e4bbe3ddfb974a1617626edae31f1dda2",
+	"_publish_commit": "main:117fd17500d6501d73c01dd9e14b5c5742c074b1",
 	"_npm_package_name": "joplin-plugin-wrapped-line-indent"
 }
