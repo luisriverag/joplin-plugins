@@ -1,8 +1,8 @@
 {
 	"manifest_version": 1,
 	"id": "io.github.mathnote",
-	"app_min_version": "3.5",
-	"version": "2.0.2",
+	"app_min_version": "3.2",
+	"version": "2.0.3",
 	"name": "Math Calculator - MathNote",
 	"description": "CalcNote-style expense calculator. Write  Label  expression |  on any line and the result appears in the right column. Includes a live 75/25 split panel and a toolbar button to write results back into the note.",
 	"author": "Parth Gala",
@@ -21,6 +21,10 @@
 	],
 	"categories": [
 		"productivity"
+	],
+	"platforms": [
+		"desktop",
+		"mobile"
 	],
 	"screenshots": [
 		{
@@ -44,7 +48,7 @@
 		"title": "Math Calculator - MathNote",
 		"description": "Quickly calculate maths between notes and preview and add back the answer with totals, grandtotal and expense lines directly in Joplin."
 	},
-	"_publish_hash": "sha256:c3a7caa656832e63ad16d65414997a817e028459e22fcb8ad3e1c097b61bda91",
-	"_publish_commit": "main:78051e6cce5637c4c765672e4dac8503beecf7b7",
+	"_publish_hash": "sha256:467784e3c9b8e597c8a6a45314041fecc4d6115dffba50f6d5e9fca5c969126c",
+	"_publish_commit": "main:bb9f99371dc96cdb5acfbbd1630bf7bd3c257c64",
 	"_npm_package_name": "joplin-plugin-mathnote"
 }
