@@ -273,7 +273,7 @@
 			"createdAt": "2024-01-11T19:37:36Z"
 		},
 		"1.2.3": {
-			"downloadCount": 3557,
+			"downloadCount": 3559,
 			"createdAt": "2025-12-13T13:52:54Z"
 		}
 	},
@@ -555,7 +555,7 @@
 			"createdAt": "2021-06-01T08:31:01Z"
 		},
 		"1.4.0": {
-			"downloadCount": 77394,
+			"downloadCount": 77395,
 			"createdAt": "2021-08-10T18:32:14Z"
 		}
 	},
@@ -759,7 +759,7 @@
 			"createdAt": "2024-12-13T19:32:24Z"
 		},
 		"1.5.15": {
-			"downloadCount": 13929,
+			"downloadCount": 13930,
 			"createdAt": "2025-10-12T14:23:46Z"
 		}
 	},
@@ -969,7 +969,7 @@
 			"createdAt": "2025-12-19T19:46:57Z"
 		},
 		"0.17.1": {
-			"downloadCount": 17898,
+			"downloadCount": 17899,
 			"createdAt": "2026-01-19T05:38:45Z"
 		}
 	},
@@ -3447,7 +3447,7 @@
 			"createdAt": "2026-05-29T05:02:27Z"
 		},
 		"2.7.0": {
-			"downloadCount": 1628,
+			"downloadCount": 1629,
 			"createdAt": "2026-05-29T12:23:48Z"
 		}
 	},
@@ -4359,7 +4359,7 @@
 			"createdAt": "2026-06-04T16:07:29Z"
 		},
 		"0.13.4": {
-			"downloadCount": 795,
+			"downloadCount": 796,
 			"createdAt": "2026-07-16T15:17:22Z"
 		}
 	},
@@ -7635,7 +7635,7 @@
 	},
 	"com.joplin.excalidraw-v2": {
 		"2.0.0": {
-			"downloadCount": 1790,
+			"downloadCount": 1791,
 			"createdAt": "2025-10-18T09:26:18Z"
 		}
 	},
@@ -7985,7 +7985,7 @@
 			"createdAt": "2026-06-26T03:45:42Z"
 		},
 		"1.8.2": {
-			"downloadCount": 0,
+			"downloadCount": 1,
 			"createdAt": "2026-08-08T16:41:34Z"
 		}
 	},
@@ -8905,7 +8905,7 @@
 			"createdAt": "2026-07-21T23:40:43Z"
 		},
 		"1.0.9": {
-			"downloadCount": 1,
+			"downloadCount": 2,
 			"createdAt": "2026-08-08T19:03:37Z"
 		}
 	},
@@ -9269,6 +9269,10 @@
 		"2.2.0": {
 			"downloadCount": 0,
 			"createdAt": "2026-08-08T19:03:38Z"
+		},
+		"2.2.1": {
+			"downloadCount": 0,
+			"createdAt": "2026-08-08T19:38:46Z"
 		}
 	},
 	"com.bwat47.joplin-backlinks-navigator": {
@@ -9641,7 +9645,7 @@
 			"createdAt": "2026-07-31T01:14:51Z"
 		},
 		"1.0.4": {
-			"downloadCount": 4,
+			"downloadCount": 5,
 			"createdAt": "2026-08-07T00:34:15Z"
 		}
 	},
