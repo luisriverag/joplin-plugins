@@ -325,7 +325,7 @@
 			"createdAt": "2025-04-27T19:45:13Z"
 		},
 		"1.2.3": {
-			"downloadCount": 2664,
+			"downloadCount": 2665,
 			"createdAt": "2025-12-13T13:52:55Z"
 		}
 	},
@@ -1259,7 +1259,7 @@
 			"createdAt": "2023-05-27T22:37:15Z"
 		},
 		"3.0.0": {
-			"downloadCount": 20725,
+			"downloadCount": 20726,
 			"createdAt": "2025-10-25T18:33:00Z"
 		}
 	},
@@ -1489,7 +1489,7 @@
 			"createdAt": "2025-06-16T10:29:52Z"
 		},
 		"1.5.20": {
-			"downloadCount": 12591,
+			"downloadCount": 12592,
 			"createdAt": "2025-07-06T17:26:00Z"
 		}
 	},
@@ -1889,7 +1889,7 @@
 			"createdAt": "2021-10-26T07:03:42Z"
 		},
 		"0.3.0": {
-			"downloadCount": 13345,
+			"downloadCount": 13346,
 			"createdAt": "2021-10-31T09:34:10Z"
 		}
 	},
@@ -2873,7 +2873,7 @@
 			"createdAt": "2022-07-19T07:05:44Z"
 		},
 		"2.2.0": {
-			"downloadCount": 17083,
+			"downloadCount": 17084,
 			"createdAt": "2023-03-15T17:37:34Z"
 		}
 	},
@@ -2955,7 +2955,7 @@
 			"createdAt": "2022-10-26T14:36:46Z"
 		},
 		"0.2.2": {
-			"downloadCount": 4718,
+			"downloadCount": 4719,
 			"createdAt": "2023-02-16T22:37:34Z"
 		}
 	},
@@ -7585,6 +7585,10 @@
 		"1.2.1": {
 			"downloadCount": 2,
 			"createdAt": "2026-08-15T01:18:04Z"
+		},
+		"1.2.2": {
+			"downloadCount": 0,
+			"createdAt": "2026-08-15T04:39:05Z"
 		}
 	},
 	"tech.willenglish.dndplugin": {
@@ -8629,7 +8633,7 @@
 	},
 	"io.github.developerzohaib786.wordcount": {
 		"1.0.0": {
-			"downloadCount": 379,
+			"downloadCount": 380,
 			"createdAt": "2026-03-01T11:52:06Z"
 		}
 	},
@@ -9099,7 +9103,7 @@
 			"createdAt": "2026-06-24T15:28:21Z"
 		},
 		"2.6.0": {
-			"downloadCount": 619,
+			"downloadCount": 620,
 			"createdAt": "2026-06-27T20:02:43Z"
 		}
 	},
