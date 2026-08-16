@@ -325,7 +325,7 @@
 			"createdAt": "2025-04-27T19:45:13Z"
 		},
 		"1.2.3": {
-			"downloadCount": 2673,
+			"downloadCount": 2674,
 			"createdAt": "2025-12-13T13:52:55Z"
 		}
 	},
@@ -969,7 +969,7 @@
 			"createdAt": "2025-12-19T19:46:57Z"
 		},
 		"0.17.1": {
-			"downloadCount": 18415,
+			"downloadCount": 18416,
 			"createdAt": "2026-01-19T05:38:45Z"
 		}
 	},
@@ -2481,7 +2481,7 @@
 			"createdAt": "2022-01-07T22:34:57Z"
 		},
 		"1.1.0": {
-			"downloadCount": 13223,
+			"downloadCount": 13224,
 			"createdAt": "2022-01-14T17:35:05Z"
 		}
 	},
@@ -3189,7 +3189,7 @@
 			"createdAt": "2026-01-31T19:50:24Z"
 		},
 		"2.1.1": {
-			"downloadCount": 3426,
+			"downloadCount": 3427,
 			"createdAt": "2026-06-13T05:10:42Z"
 		}
 	},
@@ -4051,7 +4051,7 @@
 	},
 	"kensam.joplin.plugin.highlighter": {
 		"1.0.0": {
-			"downloadCount": 4450,
+			"downloadCount": 4451,
 			"createdAt": "2022-09-24T13:06:59Z"
 		}
 	},
@@ -4359,7 +4359,7 @@
 			"createdAt": "2026-06-04T16:07:29Z"
 		},
 		"0.13.4": {
-			"downloadCount": 1027,
+			"downloadCount": 1028,
 			"createdAt": "2026-07-16T15:17:22Z"
 		}
 	},
@@ -5813,7 +5813,7 @@
 			"createdAt": "2025-02-06T18:06:01Z"
 		},
 		"1.11.0": {
-			"downloadCount": 22895,
+			"downloadCount": 22896,
 			"createdAt": "2025-04-18T05:26:19Z"
 		}
 	},
@@ -5961,7 +5961,7 @@
 			"createdAt": "2025-01-21T18:35:01Z"
 		},
 		"0.3.1": {
-			"downloadCount": 5410,
+			"downloadCount": 5411,
 			"createdAt": "2025-11-10T16:59:21Z"
 		}
 	},
@@ -7015,7 +7015,7 @@
 			"createdAt": "2026-01-02T21:24:18Z"
 		},
 		"1.9.4": {
-			"downloadCount": 1134,
+			"downloadCount": 1136,
 			"createdAt": "2026-05-26T14:03:57Z"
 		}
 	},
@@ -7595,7 +7595,7 @@
 			"createdAt": "2026-08-15T17:29:13Z"
 		},
 		"1.4.1": {
-			"downloadCount": 3,
+			"downloadCount": 4,
 			"createdAt": "2026-08-16T02:51:44Z"
 		}
 	},
@@ -8447,7 +8447,7 @@
 			"createdAt": "2026-07-09T22:59:36Z"
 		},
 		"1.6.6": {
-			"downloadCount": 107,
+			"downloadCount": 108,
 			"createdAt": "2026-08-07T00:34:13Z"
 		}
 	},
@@ -9151,7 +9151,7 @@
 			"createdAt": "2026-05-02T00:21:43Z"
 		},
 		"1.1.1": {
-			"downloadCount": 102,
+			"downloadCount": 103,
 			"createdAt": "2026-05-30T23:19:21Z"
 		}
 	},
@@ -9719,7 +9719,7 @@
 			"createdAt": "2026-07-30T06:36:41Z"
 		},
 		"4.1.0": {
-			"downloadCount": 203,
+			"downloadCount": 204,
 			"createdAt": "2026-07-31T19:03:24Z"
 		}
 	},
@@ -9791,6 +9791,10 @@
 		"1.7.7": {
 			"downloadCount": 7,
 			"createdAt": "2026-08-15T22:30:09Z"
+		},
+		"1.7.8": {
+			"downloadCount": 0,
+			"createdAt": "2026-08-16T08:05:42Z"
 		}
 	},
 	"com.madusanka.htmlBlocks": {
@@ -9799,7 +9803,7 @@
 			"createdAt": "2026-08-15T19:07:17Z"
 		},
 		"1.0.1": {
-			"downloadCount": 4,
+			"downloadCount": 5,
 			"createdAt": "2026-08-16T02:51:47Z"
 		}
 	}
